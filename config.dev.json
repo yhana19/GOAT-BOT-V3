@@ -16,20 +16,20 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61560050885709"
+    "61564459952029"
   ],
   "ownerBot": [
-    "61560050885709"
+    "61564459952029"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61560050885709"
+      "61564459952029
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Smith 卝 Junior࿐ツ",
-  "prefix": "?",
+  "nickNameBot": "Chesca bot",
+  "prefix": "-",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
